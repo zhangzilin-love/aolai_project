@@ -1,0 +1,13 @@
+test_login:
+  test_login01:
+    username: "itheima_test"
+    password: "itheima"
+    toast: Null
+  test_login02:
+    username: "itheima_test123"
+    password: "itheima"
+    toast: "用户"
+  test_login03:
+    username: "itheima_test"
+    password: "itheima123"
+    toast: "错误"

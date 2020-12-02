@@ -1,0 +1,37 @@
+test_address:
+  test_address001:
+    name: "张三"
+    phone: "17777777777"
+    info: "收纳袋那肯定"
+    post_code: "415500"
+    toast: Null
+  test_address002:
+    name: ""
+    phone: "17777777777"
+    info: "收纳袋那肯定"
+    post_code: "415500"
+    toast: "收件人姓名"
+  test_address003:
+    name: "张三"
+    phone: "177777"
+    info: "收纳袋那肯定"
+    post_code: "415500"
+    toast: "手机号"
+  test_address004:
+    name: "张三"
+    phone: "17777777777"
+    info: ""
+    post_code: "415500"
+    toast: "请输入"
+  test_address005:
+    name: "张三"
+    phone: "17777777777"
+    info: "收纳袋那肯定"
+    post_code: "4155"
+    toast: "邮政"
+  test_address006:
+    name: "张三"
+    phone: "17777777777"
+    info: "收纳袋那肯定"
+    post_code: ""
+    toast: Null
